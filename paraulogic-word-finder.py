@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-main_char = 'U'
-chars = ["U", "R", "A", "C", "I", "J", "S"]
+main_char = 'P'
+chars = ["P", "T", "L", "M", "A", "I", "S"]
 
 chars_dict = {}
 for i in range(len(chars)):
